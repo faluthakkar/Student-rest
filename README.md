@@ -38,5 +38,5 @@ Usage
 To use the application, create an account and log in. You can then search for healthcare providers and book appointments with them.
 
 Acknowledgments
-Thanks to the developers of the Spring Boot, React.js, Java, Hibernate JPA, and MySQL for their excellent tools and frameworks.
+Thanks to the developers of the Spring Boot, Java,  and MySQL for their excellent tools and frameworks.
 
